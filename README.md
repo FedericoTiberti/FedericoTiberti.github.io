@@ -1,4 +1,3 @@
-STATUS: in progress
 # Control systems Engineer
 I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth. 
 In engineering, I don't agree with "no pain, no gain", I would prefer "no brain, no gain". Pain is guaranteed but results aren't 🧠

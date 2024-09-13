@@ -1,6 +1,6 @@
 STATUS: in progress
 # Control systems Engineer
-
+I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth. Scroll down to check out some of my projects and keep going to discover my passions and interests over the years.
 ## Projects
 
 ## Work Experience
@@ -16,3 +16,5 @@ STATUS: in progress
 - In the _Connected Powertrain_ R&D team, I worked on a virtual sensor project.
 
 ## Education
+
+## 24 Hours of Spa-Francorchamps

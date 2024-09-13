@@ -1,6 +1,10 @@
 # Control systems Engineer
 I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth. 
 In engineering, I don't agree with "no pain, no gain", I would prefer "no brain, no gain". Pain is guaranteed but results aren't 🧠
+For those who are not in the field, here's an example of a popular control system: Cruise Control.
+<img src="images/ducati-logo.png" width="50">
+The control systems engineer goal is to design what's inside the red box. This is very riductive, I could write a +100pages book on the roles of a control systems engineer but, the above scheme is meant to give a great intuition!
+
 ## Projects
 
 ## Work Experience

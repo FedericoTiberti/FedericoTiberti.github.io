@@ -22,5 +22,3 @@ The control systems engineer's goal is to design what's inside the red box. This
 - In the _Connected Powertrain_ R&D team, I worked on a virtual sensor project developing and deploying a machine learning model.
 
 ## Education 📚
-
-## 24 Hours of Spa-Francorchamps 

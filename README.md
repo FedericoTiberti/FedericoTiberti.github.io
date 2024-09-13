@@ -1,6 +1,7 @@
 STATUS: in progress
 # Control systems Engineer
-I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth. Scroll down to check out some of my projects and keep going to discover my passions and interests over the years.
+I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth. 
+In engineering, I don't agree with "no pain, no gain", I would prefer "no brain, no gain". Pain is guaranteed but results aren't 🧠
 ## Projects
 
 ## Work Experience
@@ -12,8 +13,8 @@ I am passionate about leveraging technology to drive progress and am committed t
 - In the _Sensors & Applications_ R&D team, I worked on different sensing technologies.
 - I also developed a testing framework for electronic devices (mainly ECUs and sensors) using LabVIEW.
 
-**Internship - Master thesis project @ Toyota Motor Europe (_March 2023 - September 2023; Brussels_)**
-- In the _Connected Powertrain_ R&D team, I worked on a virtual sensor project.
+**Internship - Master thesis project on Virtual Sensing @ Toyota Motor Europe (_March 2023 - September 2023; Brussels_)**
+- In the _Connected Powertrain_ R&D team, I worked on a virtual sensor project developing and deploying a machine learning model.
 
 ## Education
 

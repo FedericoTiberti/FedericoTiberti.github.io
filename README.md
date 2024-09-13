@@ -7,7 +7,7 @@ to add
 ## Work Experience
 **Control Systems engineer @ Ducati Motor Holding (_April 2024 - Present; Bologna_)**
 - In the _Control Strategies & Innovation_ R&D team, I am involved in the whole V-model process.
-- As member of this team, I am responsible of design, implementation and validation of 3 control strategies. Plus, everyone of us is in charge of bringing innovative ideas to evaluate and eventually explore :)
+- As a member of this team, I am responsible for the design, implementation and validation of 3 control strategies. In addition, each of us is responsible for proposing innovative ideas to be evaluated and possibly explored. 💡 
 
 **Internship - Electronic software engineer @ Ferrari (_October 2023 - March 2024; Maranello_)**
 - In the _Sensors & Applications_ R&D team, I worked on different sensing technologies.

@@ -22,12 +22,18 @@ The control systems engineer's goal is to design what's inside the red box. This
 - In the _Connected Powertrain_ R&D team, I worked on a virtual sensor project developing and deploying a machine learning model.
 
 ## Education 📚
-**MSc in Control Systems engineering (_2021 - 2023_)**
+**MSc in Control Systems Engineering (_2021 - 2023_)**
 - In my master's program, I focused on control systems, studying advanced topics such as Kalman filters, nonlinear systems, and system identification algorithms.
-- It is a pleasure to post here a picture of my final graduation day
+- It is a pleasure to post here a picture of my final graduation day:  
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/graduation.jpg" width="150">
 
-**BSc in information engineering (_2018 - 2021_)**
+**BSc in Information Engineering (_2018 - 2021_)**
 - Basis of the 4 pillars of information engineering: Informatics, Electronics, Telecommunications and Automation.
-- In my third year, I focused on automation and completed an experimental thesis using a Crazyflie drone. Here it is a nice picture!
-<img src="images/cc-control-system.png" width="450">
+- In my third year, I focused on automation and completed an experimental thesis using a Crazyflie drone. Here it is a nice picture!  
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/crazyflie-drone.jpg" width="100">
+
 **High school scientific diploma (_2013 - 2018_)**
+
+## 24h of Spa-Francorchamps
+June 2023, unforgettable!  
+During my time in Brussels, I went to the 24 Hours of Spa, immersing myself in the world of motorsport at one of what I believe to be the top three circuits in the world.  

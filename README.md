@@ -1,5 +1,5 @@
 # Control systems Engineer
-I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth. 
+I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth, I am working at Ducati, fully  
 In engineering, I don't agree with "no pain, no gain", I would prefer "no brain, no gain". Pain is guaranteed but results aren't 🧠  
 For those who are not in the field, here's an example of a popular control system: Cruise Control.  
 <p align="center"> 
@@ -22,3 +22,12 @@ The control systems engineer's goal is to design what's inside the red box. This
 - In the _Connected Powertrain_ R&D team, I worked on a virtual sensor project developing and deploying a machine learning model.
 
 ## Education 📚
+**MSc in Control Systems engineering (_2021 - 2023_)**
+- In my master's program, I focused on control systems, studying advanced topics such as Kalman filters, nonlinear systems, and system identification algorithms.
+- It is a pleasure to post here a picture of my final graduation day
+
+**BSc in information engineering (_2018 - 2021_)**
+- Basis of the 4 pillars of information engineering: Informatics, Electronics, Telecommunications and Automation.
+- In my third year, I focused on automation and completed an experimental thesis using a Crazyflie drone. Here it is a nice picture!
+<img src="images/cc-control-system.png" width="450">
+**High school scientific diploma (_2013 - 2018_)**

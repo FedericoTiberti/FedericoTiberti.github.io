@@ -25,12 +25,14 @@ The control systems engineer's goal is to design what's inside the red box. This
 **MSc in Control Systems Engineering (_2021 - 2023_)**
 - In my master's program, I focused on control systems, studying advanced topics such as Kalman filters, nonlinear systems, and system identification algorithms.
 - It is a pleasure to post here a picture of my final graduation day:  
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/graduation.jpg" width="150">
+  &nbsp;&nbsp;&nbsp;&nbsp; <br>
+  <img src="images/graduation.jpg" width="150">
 
 **BSc in Information Engineering (_2018 - 2021_)**
 - Basis of the 4 pillars of information engineering: Informatics, Electronics, Telecommunications and Automation.
 - In my third year, I focused on automation and completed an experimental thesis using a Crazyflie drone. Here it is a nice picture!  
-  &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/crazyflie-drone.jpg" width="100">
+  &nbsp;&nbsp;&nbsp;&nbsp; <br>
+  <img src="images/crazyflie-drone.jpg" width="100">
 
 **High school scientific diploma (_2013 - 2018_)**
 

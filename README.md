@@ -1,6 +1,6 @@
 # Control systems Engineer
-I am passionate about leveraging technology to drive progress and am committed to continuous learning and professional growth, I am working at Ducati, fully  
-In engineering, I don't agree with "no pain, no gain", I would prefer "no brain, no gain". Pain is guaranteed but results aren't 🧠  
+I work at Ducati, a leader in motorcycle engineering, where I have the opportunity to grow professionally while passionately contributing to innovative projects. I am passionate about leveraging technology to drive progress and am committed to continuous learning.      
+In my field, I don't agree with "no pain, no gain", I would prefer "no brain, no gain". Pain is guaranteed but results aren't 🧠  
 For those who are not in the field, here's an example of a popular control system: Cruise Control.  
 <p align="center"> 
   <img src="images/cc-control-system.png" width="450">
@@ -38,7 +38,7 @@ The control systems engineer's goal is to design what's inside the red box. This
 
 ## 24h of Spa-Francorchamps
 June 2023, unforgettable!  
-During my time in Brussels, I went to the 24 Hours of Spa with a special vehicle, immersing myself in the world of motorsport at one of what I believe to be the top three circuits in the world.  
+During my time in Brussels, I went to the 24 Hours of Spa with a special vehicle, immersing myself in the world of motorsport at one of what I believe to be in the top three circuits in the world.  
 <p align="center"> 
   <img src="images/24h-spa.jpg" width="350">
 </p>

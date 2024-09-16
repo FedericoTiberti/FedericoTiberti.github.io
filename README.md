@@ -36,4 +36,7 @@ The control systems engineer's goal is to design what's inside the red box. This
 
 ## 24h of Spa-Francorchamps
 June 2023, unforgettable!  
-During my time in Brussels, I went to the 24 Hours of Spa, immersing myself in the world of motorsport at one of what I believe to be the top three circuits in the world.  
+During my time in Brussels, I went to the 24 Hours of Spa with a special vehicle, immersing myself in the world of motorsport at one of what I believe to be the top three circuits in the world.  
+<p align="center"> 
+  <img src="images/24h-spa.jpg" width="350">
+</p>

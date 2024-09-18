@@ -23,7 +23,7 @@ The control systems engineer's goal is to design what's inside the red box. This
 
 ## Education 📚
 **MSc in Control Systems Engineering (_2021 - 2023_)**
-- In my master's program, I focused on control systems, studying advanced topics such as Kalman filters, nonlinear systems, and system identification algorithms.
+- In my master's program, I focused on control systems, studying advanced topics such as Kalman filters, nonlinear systems, Model Predictive Control and system identification algorithms.
 - It is a pleasure to post here a picture of my final graduation day:  
   &nbsp;&nbsp;&nbsp;&nbsp; <br>
   <img src="images/graduation.jpg" width="150">

@@ -39,8 +39,6 @@ The control systems engineer's goal is to design what's inside the red box. This
   &nbsp;&nbsp;&nbsp;&nbsp; <br>
   <img src="images/crazyflie-drone.jpg" width="150">
 
-**High school scientific diploma (_2013 - 2018_)**
-
 ## 24h of Spa-Francorchamps 
 June 2023, unforgettable!  
 During my time in Brussels, I went to the 24 Hours of Spa with a car that I'm sure didn't go unnoticed! It has been simply incredible to experience the world of motorsport at one of what I believe to be in the top three circuits in the world.  

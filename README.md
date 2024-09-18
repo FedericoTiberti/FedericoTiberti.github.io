@@ -25,8 +25,10 @@ The control systems engineer's goal is to design what's inside the red box. This
 **MSc in Control Systems Engineering (_2021 - 2023_)**
 - In my master's program, I focused on control systems, studying advanced topics such as Kalman filters, nonlinear systems, Model Predictive Control and system identification algorithms.
 - In 2022, I participated in two outstanding events
-1. Summer school in the Netherlands on Artificial Intelligence and Machine Learning. During the week we went canoeing! 
-2. Workshop with the **_Shibaura Institute of Technology_**, where we worked in a group of four - two Italians and two Japanese - on a project focused on Skill Transfer.
+  1. Summer school in the Netherlands on Artificial Intelligence and Machine Learning. During the week we went canoeing!  
+    &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/summer-school.JPG" width="150">  
+  2. Workshop with the **_Shibaura Institute of Technology_**, where we worked in a group of four - two Italians and two Japanese - on a project focused on Skill Transfer.  
+     &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/workshop-sit.JPG" width="150">  
 - It is a pleasure to post here a picture of my final graduation day:  
   &nbsp;&nbsp;&nbsp;&nbsp; <br>
   <img src="images/graduation.jpg" width="150">
@@ -35,7 +37,7 @@ The control systems engineer's goal is to design what's inside the red box. This
 - Basis of the 4 pillars of information engineering: Informatics, Electronics, Telecommunications and Automation.
 - In my third year, I focused on automation and completed an experimental thesis using a Crazyflie drone. Here it is a nice picture!  
   &nbsp;&nbsp;&nbsp;&nbsp; <br>
-  <img src="images/crazyflie-drone.jpg" width="100">
+  <img src="images/crazyflie-drone.jpg" width="150">
 
 **High school scientific diploma (_2013 - 2018_)**
 
@@ -48,6 +50,14 @@ During my time in Brussels, I went to the 24 Hours of Spa with a car that I'm su
 
 ## Sports over the years 🏊‍♂️🏔️🏋️‍♂️
 Sport has been a constant passion in my life over the years. In my childhood and adolescence, I was a professional swimmer, and later became a competitive crossfitter, all while engaging in other occasional sports activities, such as climbing Mount Velino at over 2,400 meters in altitude. Swimming taught me exceptional discipline and allowed me to forge unbreakable bonds. Among the photos is a podium shared at a competition in Siena with two lifelong friends back in 2014!
+<p float="center"> 
+  <img src="images/nuoto.JPG" width="250">
+  <img src="images/crossfit.JPG" width="250">
+  <img src="images/velino.JPG" width="250">
+</p>
 
 ## Telespazio Fucino Space Center 📡
-During my last year of high school, we were fortunate to visit the largest civilian teleport in the world, just a few kilometers from the school I attended in Avezzano. It was a unique atmosphere that allowed us to experience the beginnings of telecommunications in the 1960s.
+During my last year of high school, we were fortunate to visit the largest civilian teleport in the world, just a few kilometers from the school I attended in Avezzano. It was a unique atmosphere that allowed us to experience the beginnings of telecommunications in the 1960s.  
+<p align="center"> 
+  <img src="images/telespazio.JPG" width="350">
+</p>

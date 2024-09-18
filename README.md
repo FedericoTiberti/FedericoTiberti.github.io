@@ -51,9 +51,9 @@ During my time in Brussels, I went to the 24 Hours of Spa with a car that I'm su
 ## Sports over the years 🏊‍♂️🏔️🏋️‍♂️
 Sport has been a constant passion in my life over the years. In my childhood and adolescence, I was a professional swimmer, and later became a competitive crossfitter, all while engaging in other occasional sports activities, such as climbing Mount Velino at over 2,400 meters in altitude. Swimming taught me exceptional discipline and allowed me to forge unbreakable bonds. Among the photos is a podium shared at a competition in Siena with two lifelong friends back in 2014!
 <p float="center"> 
-  <img src="images/nuoto.JPG" width="250">
-  <img src="images/crossfit.JPG" width="250">
-  <img src="images/velino.JPG" width="250">
+  <img src="images/nuoto.JPG" width="150">
+  <img src="images/crossfit.JPG" width="150">
+  <img src="images/velino.JPG" width="150">
 </p>
 
 ## Telespazio Fucino Space Center 📡

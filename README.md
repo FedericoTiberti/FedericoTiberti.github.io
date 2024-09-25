@@ -17,8 +17,9 @@ This project aims at simulating photovoltaic (PV) arrays and a boost converter i
 After that, an enhanced version of the P&O algorithm has been implemented: the variable step version. The purpose here is to study how the algorithm performs under partial shading condition of the PV arrays.  
 Unlike the conventional P&O algorithm, which uses a fixed step size for perturbations, the variable step P&O algorithm dynamically adjusts the step size based on the PV array’s
 behavior. This approach helps to reduce oscillations around the MPP and enhance the system’s overall power generation capabilities. The final achieved PiL simulation can be schematized as shown here
-
-add image
+<p align="center"> 
+  <img src="images/PiL-system-overview.png" width="350">
+</p>
 
 Check out more in the [full repository](https://github.com/FedericoTiberti/MPPT-array-control-real-time)!
 </details>  
@@ -38,7 +39,9 @@ If you are curious about it and you want to know more, just click the link to th
 
 <summary>Project overview and GitHub repo</summary>
 Let me start with a picture:
-add image
+<p align="center"> 
+  <img src="images/proximity-detection.png" width="500">
+</p>
 The project is based on a measurement campaign adressed to the collection of Received Signal Strength Indicator (RSSI) measurements received from the sniffer.
 The goal is to derive configuration guidelines for transmission schemes and thresholds to be  used in contact tracing and exposure notification services. Proximity detection has been obtained in different scenarios employing different types of sniffers:  
 

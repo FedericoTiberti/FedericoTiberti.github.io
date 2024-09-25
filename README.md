@@ -9,10 +9,6 @@ The control systems engineer's goal is to design what's inside the red box. This
 
 ## Projects 💻
 ### PiL Simulation of a photovoltaic control system 
-<details>
-
-<summary>Project overview and GitHub repo</summary>
-
 This project aims at simulating photovoltaic (PV) arrays and a boost converter in Simulink, and integrating the Perturb and Observe (P&O) algorithm for Maximum Power Point Tracking (MPPT) using a Texas Instruments board, in particular, the LAUNCHXL-F28379D development kit. The project focuses on the realization of serial communication between MATLAB and the Texas Instruments board for the purpose of achieving a Processor-in-the-Loop (PiL) simulation.
 After that, an enhanced version of the P&O algorithm has been implemented: the variable step version. The purpose here is to study how the algorithm performs under partial shading condition of the PV arrays.  
 Unlike the conventional P&O algorithm, which uses a fixed step size for perturbations, the variable step P&O algorithm dynamically adjusts the step size based on the PV array’s
@@ -22,7 +18,6 @@ behavior. This approach helps to reduce oscillations around the MPP and enhance 
 </p>
 
 Check out more in the [full repository](https://github.com/FedericoTiberti/MPPT-array-control-real-time)!
-</details>  
 
 ### MoCap system for UAV trajectory control 
 <details>

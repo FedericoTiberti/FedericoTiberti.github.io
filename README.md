@@ -9,6 +9,9 @@ The control systems engineer's goal is to design what's inside the red box. This
 
 ## Projects 💻
 ### PiL Simulation of a photovoltaic control system 
+<details>
+
+<summary>Project overview </summary>
 This project aims at simulating photovoltaic (PV) arrays and a boost converter in Simulink, and integrating the Perturb and Observe (P&O) algorithm for Maximum Power Point Tracking (MPPT) using a Texas Instruments board, in particular, the LAUNCHXL-F28379D development kit. The project focuses on the realization of serial communication between MATLAB and the Texas Instruments board for the purpose of achieving a Processor-in-the-Loop (PiL) simulation.
 After that, an enhanced version of the P&O algorithm has been implemented: the variable step version. The purpose here is to study how the algorithm performs under partial shading condition of the PV arrays.  
 Unlike the conventional P&O algorithm, which uses a fixed step size for perturbations, the variable step P&O algorithm dynamically adjusts the step size based on the PV array’s
@@ -16,8 +19,9 @@ behavior. This approach helps to reduce oscillations around the MPP and enhance 
 <p align="center"> 
   <img src="images/PiL-system-overview.png" width="350">
 </p>
+</details> 
 
-Check out more in the [full repository](https://github.com/FedericoTiberti/MPPT-array-control-real-time)!
+[Full repository](https://github.com/FedericoTiberti/MPPT-array-control-real-time).
 
 ### MoCap system for UAV trajectory control 
 <details>
@@ -26,8 +30,10 @@ Check out more in the [full repository](https://github.com/FedericoTiberti/MPPT-
 The goal of this project is to successfully control the trajectory of a Crazyflie 2.X drone from a target PC exploiting data of the Motion Capture (MoCap) system equipped with four infrared cameras. This system allows the drone to follow a target trajectory starting at any given point in the range of view of the Optitrack cameras. The trajectory is generated after the drone has successfully taken off, this trajectory is based on the measured position from the cameras and a set of target points that can be fixed by the user.  
 Without this system, the UAV could only move relatevely to itself. Therefore, it has been crucial to introduce the MoCap system!  
 
-If you are curious about it and you want to know more, just click the link to the [full repository](https://github.com/FedericoTiberti/Drone-trajectory-tracking).
+If you are curious about it and you want to know more, just click the link to the repository below! 
 </details> 
+
+[Full repository](https://github.com/FedericoTiberti/Drone-trajectory-tracking).
 
 ### Proximity detection using Bluetooth Low Energy packet sniffers
 <details>
@@ -50,9 +56,11 @@ To achieved the prefixed objective, the following steps have been followed:
   - Measurements & Data Log
   - Post Processing & Data Visualization  
   
-To get deeper details and understand the final result, check out the [full repository](https://github.com/FedericoTiberti/BLE-sniffing/tree/main)
+To get deeper details and understand the final result, check out the repository. 
 
 </details> 
+
+[Full repository](https://github.com/FedericoTiberti/BLE-sniffing/tree/main).
 
 ### Nonlinear control of Hybrid Energy Storage System
 <details>
@@ -65,11 +73,11 @@ The nonlinear controller used in this system ensures optimal performance by meet
 2. **Accurate Supercapacitor Current Tracking**: The current of the supercapacitor should follow its reference value accurately to ensure optimal auxiliary power supply.
 3. **Asymptotic Stability**: The entire closed-loop system, including both power sources and converters, must maintain stability over time.
 
-If you want to check the performances and simulate the system on your own, access the [full repository](https://github.com/FedericoTiberti/Control-of-FuelCell-Supercapacitor-Hybrid-System) and...   
-Happy simulating! 🚗🔋⚡
-
-
+If you want to check the performances and simulate the system on your own, access the repository and... Happy simulating! 🚗🔋⚡ 
 </details> 
+
+[Full repository](https://github.com/FedericoTiberti/Control-of-FuelCell-Supercapacitor-Hybrid-System).
+
 
 ## Work Experience 💼
 **Control Systems engineer @ Ducati Motor Holding <img src="images/ducati-logo.png" width="17"> (_April 2024 - Present; Bologna_)** 

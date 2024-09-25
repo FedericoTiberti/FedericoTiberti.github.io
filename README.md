@@ -8,6 +8,70 @@ For those who are not in the field, here's an example of a popular control syste
 The control systems engineer's goal is to design what's inside the red box. This is very riductive, I could write a +100pages book on the roles of a control systems engineer but, the above scheme is meant to give a great intuition!
 
 ## Projects 💻
+### PiL Simulation of a photovoltaic control system 
+<details>
+
+<summary>Project overview and GitHub repo</summary>
+
+This project aims at simulating photovoltaic (PV) arrays and a boost converter in Simulink, and integrating the Perturb and Observe (P&O) algorithm for Maximum Power Point Tracking (MPPT) using a Texas Instruments board, in particular, the LAUNCHXL-F28379D development kit. The project focuses on the realization of serial communication between MATLAB and the Texas Instruments board for the purpose of achieving a Processor-in-the-Loop (PiL) simulation.
+After that, an enhanced version of the P&O algorithm has been implemented: the variable step version. The purpose here is to study how the algorithm performs under partial shading condition of the PV arrays.  
+Unlike the conventional P&O algorithm, which uses a fixed step size for perturbations, the variable step P&O algorithm dynamically adjusts the step size based on the PV array’s
+behavior. This approach helps to reduce oscillations around the MPP and enhance the system’s overall power generation capabilities. The final achieved PiL simulation can be schematized as shown here
+
+add image
+
+Check out more in the [full repository](https://github.com/FedericoTiberti/MPPT-array-control-real-time)!
+</details>  
+
+### MoCap system for UAV trajectory control 
+<details>
+
+<summary>Project overview and GitHub repo</summary>
+The goal of this project is to successfully control the trajectory of a Crazyflie 2.X drone from a target PC exploiting data of the Motion Capture (MoCap) system equipped with four infrared cameras. This system allows the drone to follow a target trajectory starting at any given point in the range of view of the Optitrack cameras. The trajectory is generated after the drone has successfully taken off, this trajectory is based on the measured position from the cameras and a set of target points that can be fixed by the user.  
+Without this system, the UAV could only move relatevely to itself. Therefore, it has been crucial to introduce the MoCap system!  
+
+If you are curious about it and you want to know more, just click the link to the [full repository](https://github.com/FedericoTiberti/Drone-trajectory-tracking).
+</details> 
+
+### Proximity detection using Bluetooth Low Energy packet sniffers
+<details>
+
+<summary>Project overview and GitHub repo</summary>
+Let me start with a picture:
+add image
+The project is based on a measurement campaign adressed to the collection of Received Signal Strength Indicator (RSSI) measurements received from the sniffer.
+The goal is to derive configuration guidelines for transmission schemes and thresholds to be  used in contact tracing and exposure notification services. Proximity detection has been obtained in different scenarios employing different types of sniffers:  
+
+  - Android smartphone with the nRF Connect app.  
+  - nRF52-DK (properly configured) used on Wireshark SW.  
+  - CC2540 (Texas dongle) used on Packet-Sniffer SW.  
+  
+To achieved the prefixed objective, the following steps have been followed:  
+  - Dongle setup throught nRF Mesh for periodic signal transmission  
+  - Texas & Nordic HW setup
+  - Measurements & Data Log
+  - Post Processing & Data Visualization  
+  
+To get deeper details and understand the final result, check out the [full repository](https://github.com/FedericoTiberti/BLE-sniffing/tree/main)
+
+</details> 
+
+### Nonlinear control of Hybrid Energy Storage System
+<details>
+
+<summary>Project overview and GitHub repo</summary>
+This project is focused on the simulation and control of a Hybrid Energy Storage System (HESS) for electric vehicles. The HESS consists of two power sources: a Fuel Cell (FC) as the main source and a Supercapacitor (SC) as the auxiliary source. The system is designed to optimize the power distribution between these sources while ensuring stability, efficiency, and performance.  
+The nonlinear controller used in this system ensures optimal performance by meeting the following key objectives:
+
+1. **Tight DC Bus Voltage Regulation**: The DC bus voltage must remain stable despite variations in load demand.
+2. **Accurate Supercapacitor Current Tracking**: The current of the supercapacitor should follow its reference value accurately to ensure optimal auxiliary power supply.
+3. **Asymptotic Stability**: The entire closed-loop system, including both power sources and converters, must maintain stability over time.
+
+If you want to check the performances and simulate the system on your own, access the [full repository](https://github.com/FedericoTiberti/Control-of-FuelCell-Supercapacitor-Hybrid-System) and...   
+Happy simulating! 🚗🔋⚡
+
+
+</details> 
 
 ## Work Experience 💼
 **Control Systems engineer @ Ducati Motor Holding <img src="images/ducati-logo.png" width="17"> (_April 2024 - Present; Bologna_)** 
@@ -28,7 +92,9 @@ The control systems engineer's goal is to design what's inside the red box. This
   1. Summer school in the Netherlands on Artificial Intelligence and Machine Learning. During the week we went canoeing!  
     &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/summer-school.JPG" width="150">  
   2. Workshop with the **_Shibaura Institute of Technology_**, where we worked in a group of four - two Italians and two Japanese - on a project focused on Skill Transfer.  
-     &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/workshop-sit.JPG" width="150">  
+     &nbsp;&nbsp;&nbsp;&nbsp; <img src="images/workshop-sit.JPG" width="150">
+     
+     Interested on the topic? Check out the repository [here](https://github.com/FedericoTiberti/Workshop-SkillTransfer) to get insights on how we developed the idea!
 - It is a pleasure to post here a picture of my final graduation day:  
   &nbsp;&nbsp;&nbsp;&nbsp; <br>
   <img src="images/graduation.jpg" width="150">

@@ -1,5 +1,5 @@
 title: Federico Tiberti
 logo: /images/profile-picture-circle.png
 #description: prova
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal

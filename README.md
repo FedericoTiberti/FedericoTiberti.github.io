@@ -26,7 +26,7 @@ behavior. This approach helps to reduce oscillations around the MPP and enhance 
 ### MoCap system for UAV trajectory control 
 <details>
 
-<summary>Project overview and GitHub repo</summary>
+<summary>Project overview</summary>
 The goal of this project is to successfully control the trajectory of a Crazyflie 2.X drone from a target PC exploiting data of the Motion Capture (MoCap) system equipped with four infrared cameras. This system allows the drone to follow a target trajectory starting at any given point in the range of view of the Optitrack cameras. The trajectory is generated after the drone has successfully taken off, this trajectory is based on the measured position from the cameras and a set of target points that can be fixed by the user.  
 Without this system, the UAV could only move relatevely to itself. Therefore, it has been crucial to introduce the MoCap system!  
 
@@ -38,7 +38,7 @@ If you are curious about it and you want to know more, just click the link to th
 ### Proximity detection using Bluetooth Low Energy packet sniffers
 <details>
 
-<summary>Project overview and GitHub repo</summary>
+<summary>Project overview</summary>
 Let me start with a picture:
 <p align="center"> 
   <img src="images/proximity-detection.png" width="500">
@@ -65,7 +65,7 @@ To get deeper details and understand the final result, check out the repository.
 ### Nonlinear control of Hybrid Energy Storage System
 <details>
 
-<summary>Project overview and GitHub repo</summary>
+<summary>Project overview</summary>
 This project is focused on the simulation and control of a Hybrid Energy Storage System (HESS) for electric vehicles. The HESS consists of two power sources: a Fuel Cell (FC) as the main source and a Supercapacitor (SC) as the auxiliary source. The system is designed to optimize the power distribution between these sources while ensuring stability, efficiency, and performance.  
 The nonlinear controller used in this system ensures optimal performance by meeting the following key objectives:
 

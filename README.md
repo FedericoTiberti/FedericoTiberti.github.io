@@ -78,6 +78,26 @@ If you want to check the performances and simulate the system on your own, acces
 
 [Full repository](https://github.com/FedericoTiberti/Control-of-FuelCell-Supercapacitor-Hybrid-System).
 
+### IMU Data Acquisition & Complementary Filtering with Arduino
+<details>
+
+<summary>Project overview </summary>
+This project focuses on acquiring data from the **MPU6050** Inertial Measurement Unit (IMU) using the **MPU6050.h** library on an Arduino microcontroller. The MPU6050 combines a **3-axis accelerometer** and a **3-axis gyroscope**, providing both linear acceleration and angular velocity data. These sensor readings are then processed using a **complementary filter** to produce a more accurate estimate of orientation. 
+ 
+Why Use MPU6050 and Complementary Filters? 🤔  
+- The **accelerometer** is sensitive to external forces and vibrations, leading to noisy signals during dynamic movement 📉.
+- The **gyroscope** accumulates **drift** over time, which leads to incorrect orientation estimates if not corrected 🌀.
+
+The **complementary filter** effectively **fuses the accelerometer and gyroscope data**, taking advantage of the strengths of each:
+- **Low-pass filtering** is applied to the accelerometer data for reliable long-term orientation estimates ⚖️.
+- **High-pass filtering** is applied to gyroscope data for short-term, high-frequency motion, compensating for drift 📐.
+
+<p align="center"> 
+  <img src="images/data-filtering-scheme.png" width="350">
+</p>
+</details> 
+
+[Full repository](https://github.com/FedericoTiberti/MPU6050-IMU-with-Arduino).
 
 ## Work Experience 💼
 **Control Systems engineer @ Ducati Motor Holding <img src="images/ducati-logo.png" width="17"> (_April 2024 - Present; Bologna_)** 

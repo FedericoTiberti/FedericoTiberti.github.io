@@ -69,9 +69,9 @@ To get deeper details and understand the final result, check out the repository.
 This project is focused on the simulation and control of a Hybrid Energy Storage System (HESS) for electric vehicles. The HESS consists of two power sources: a Fuel Cell (FC) as the main source and a Supercapacitor (SC) as the auxiliary source. The system is designed to optimize the power distribution between these sources while ensuring stability, efficiency, and performance.  
 The nonlinear controller used in this system ensures optimal performance by meeting the following key objectives:
 
-1. **Tight DC Bus Voltage Regulation**: The DC bus voltage must remain stable despite variations in load demand.
-2. **Accurate Supercapacitor Current Tracking**: The current of the supercapacitor should follow its reference value accurately to ensure optimal auxiliary power supply.
-3. **Asymptotic Stability**: The entire closed-loop system, including both power sources and converters, must maintain stability over time.
+1. Tight DC Bus Voltage Regulation: The DC bus voltage must remain stable despite variations in load demand.
+2. Accurate Supercapacitor Current Tracking: The current of the supercapacitor should follow its reference value accurately to ensure optimal auxiliary power supply.
+3. Asymptotic Stability: The entire closed-loop system, including both power sources and converters, must maintain stability over time.
 
 If you want to check the performances and simulate the system on your own, access the repository and... Happy simulating! 🚗🔋⚡ 
 </details> 
@@ -82,15 +82,15 @@ If you want to check the performances and simulate the system on your own, acces
 <details>
 
 <summary>Project overview </summary>
-This project focuses on acquiring data from the **MPU6050** Inertial Measurement Unit (IMU) using the **MPU6050.h** library on an Arduino microcontroller. The MPU6050 combines a **3-axis accelerometer** and a **3-axis gyroscope**, providing both linear acceleration and angular velocity data. These sensor readings are then processed using a **complementary filter** to produce a more accurate estimate of orientation. 
+This project focuses on acquiring data from the MPU6050 Inertial Measurement Unit (IMU) using the MPU6050.h library on an Arduino microcontroller. The MPU6050 combines a 3-axis accelerometer and a 3-axis gyroscope, providing both linear acceleration and angular velocity data. These sensor readings are then processed using a complementary filter to produce a more accurate estimate of orientation. 
  
 Why Use MPU6050 and Complementary Filters? 🤔  
-- The **accelerometer** is sensitive to external forces and vibrations, leading to noisy signals during dynamic movement 📉.
-- The **gyroscope** accumulates **drift** over time, which leads to incorrect orientation estimates if not corrected 🌀.
+- The accelerometer is sensitive to external forces and vibrations, leading to noisy signals during dynamic movement 📉.
+- The gyroscope accumulates drift over time, which leads to incorrect orientation estimates if not corrected 🌀.
 
-The **complementary filter** effectively **fuses the accelerometer and gyroscope data**, taking advantage of the strengths of each:
-- **Low-pass filtering** is applied to the accelerometer data for reliable long-term orientation estimates ⚖️.
-- **High-pass filtering** is applied to gyroscope data for short-term, high-frequency motion, compensating for drift 📐.
+The complementary filter effectively fuses the accelerometer and gyroscope data, taking advantage of the strengths of each:
+- Low-pass filtering is applied to the accelerometer data for reliable long-term orientation estimates ⚖️.
+- High-pass filtering is applied to gyroscope data for short-term, high-frequency motion, compensating for drift 📐.
 
 <p align="center"> 
   <img src="images/data-filtering-scheme.png" width="350">
